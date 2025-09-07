@@ -30,5 +30,5 @@ Kilk link "Live Demo" yang sudah di cantumkan pada README.md
 ## 🤖 AI Support Explanation
 - Membantu saya dalam mengoptimalisasi code 
 - menjelaskan implementasi operator kalkulator
-- membantu code saya dimana yang saya lihat orang lain mengubah warna tombol tertentu pada js=nya langsung menjadi saya bisa mengubah warna tombol tertentu tersebut pada CSS
+- membantu code saya dimana yang saya lihat orang lain mengubah warna tombol tertentu pada js-nya langsung menjadi saya bisa mengubah warna tombol tertentu tersebut pada CSS
 - membantu saya menemukan typo-typo dalam code saya
