@@ -25,9 +25,9 @@ Proyek ini dibuat sebagai bagian dari tugas **Hacktiv8 Brief Capstone Project**.
 - Toggle tanda (`+/-`)   
 
 ## ⚙️ Cara Menjalankan Proyek
-Kilk link yang sudah di cantumkan pada README.md 
+Kilk link "Live Demo" yang sudah di cantumkan pada README.md 
 
-## AI Support Explanation
+## 🤖 AI Support Explanation
 - Membantu saya dalam mengoptimalisasi code 
 - menjelaskan implementasi operator kalkulator
 - membantu code saya dimana yang saya lihat orang lain mengubah warna tombol tertentu pada js=nya langsung menjadi saya bisa mengubah warna tombol tertentu tersebut pada CSS
